@@ -1,0 +1,21 @@
+{
+    "name": "org.furrusion.prefabtools",
+    "version": "1.0.0",
+    "displayName": "Furrusion Prefab Tools",
+    "description": "Unity Editor tools to inspect prefab variant inheritance chains — includes single and batch inspection modes.",
+    "unity": "2020.3",
+    "author": {
+      "name": "Furrusion Inc.",
+      "url": "https://github.com/furrusion"
+    },
+    "keywords": [
+      "unity",
+      "editor",
+      "tools",
+      "prefab",
+      "variant",
+      "furrusion"
+    ],
+    "type": "tool"
+}
+  
